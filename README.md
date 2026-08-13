@@ -42,4 +42,4 @@ For each of the three test inputs, you must measure the waveform on the oscillos
 
 ## Submission:
 * Compile the oscilloscope screenshots into a single Word Document. Ensure every image is properly labeled with the input type (Sine, Square, Triangle) and the corresponding circuit stage (P, I, D, or combined PID, also add in your tinkercad link.
-* Follow the submission guidelines on the main repo
+* Follow the submission guidelines on the main repository.
